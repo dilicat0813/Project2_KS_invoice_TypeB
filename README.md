@@ -1,5 +1,5 @@
 # Project2_KS_invoice_TypeB
- 알파코 2023 uipath 해커톤 과제
+ 알파코 2023 uipath 해커톤 프로젝트 
 
 <h2> RPA 선형 로직 </h2>
 
